@@ -1,0 +1,8 @@
+fastapi
+pandas
+streamlit
+sqlalchemy
+typing
+pydantic
+uvicorn
+watchdog
